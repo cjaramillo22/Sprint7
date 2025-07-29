@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 
 # Leer el CSV desde la ruta local
-car_data = pd.read_csv('C:/Users/carlo/OneDrive/Escritorio/Proyecto Sprint 7/vehicles_us.csv')
+car_data = pd.read_csv('vehicles_us.csv')
 
 # Título de la aplicación
 st.header("Cuadro de Mandos de Vehículos en USA")
