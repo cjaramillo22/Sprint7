@@ -18,3 +18,5 @@ Este proyecto es una aplicación web construida con Streamlit que permite visual
 - Streamlit
 - Pandas
 - Plotly Express
+
+# *Link del render.com:* https://proyectosprint7-shhb.onrender.com/
