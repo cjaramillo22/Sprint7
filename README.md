@@ -18,5 +18,3 @@ Este proyecto es una aplicación web construida con Streamlit que permite visual
 - Streamlit
 - Pandas
 - Plotly Express
-
-## Cómo ejecutar la aplicación
